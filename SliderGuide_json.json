@@ -37,7 +37,7 @@
   
   "main_inter": true,
   
-  "show_force_rate": true,
+  "show_force_rate": false,
   
   
   "show_slider": false,
@@ -51,7 +51,7 @@
   "native_rate": 1,
   
   
-  "show_rate_us_in_list": true,
+  "show_rate_us_in_list": false,
   
   
   "show_cpa": false,
@@ -59,7 +59,7 @@
   "cpa_url": "https://www.ramseysolutions.com/taxes/what-does-a-cpa-do",
   "cpa_button_text": "Get It Now!",
   
-  "show_rating_exit_popup": true,
+  "show_rating_exit_popup": false,
   
   "onesignal_id": "xxxxxxx",
   
